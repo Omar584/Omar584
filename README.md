@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **omar.maud.11122002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ySrZuvqIUzz6w5HMHG842j90TsvbXTy3/view](https://drive.google.com/file/d/1ySrZuvqIUzz6w5HMHG842j90TsvbXTy3/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ySrZuvqIUzz6w5HMHG842j90TsvbXTy3/view](https://drive.google.com/file/d/1GlZ4Ku7gtGweH28s5KlO-0kvIlWmw0en/view?usp=sharing)
 
 - ⚡ Fun fact **I think Iam a football analyst.**
 
