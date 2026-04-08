@@ -1,21 +1,91 @@
-<h1 align="center">Hi 👋, I'm Omar Mohamed Elsayed</h1>
-<h3 align="center">Computer Science student at Cairo University's Faculty of Computers and Artificial Intelligence.</h3>
+# 👋 Hi, I'm Omar Mohamed
 
-- 📫 How to reach me **omar.maud.11122002@gmail.com**
+🚀 Computer Science Student @ Cairo University  
+🤖 AI & Machine Learning Enthusiast  
+🧠 Interested in LLMs, RAG Systems, and Data-Driven Applications  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ySrZuvqIUzz6w5HMHG842j90TsvbXTy3/view](https://drive.google.com/file/d/1GlZ4Ku7gtGweH28s5KlO-0kvIlWmw0en/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I think Iam a football analyst.**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar-mowad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-mowad" height="30" width="40" /></a>
-<a href="https://fb.com/omar.mohamed.11122002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar.mohamed.11122002" height="30" width="40" /></a>
-<a href="https://instagram.com/omaaar_mohaamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omaaar_mohaamed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omar_maud_111221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omar_maud_111221" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/omarmohamed11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omarmohamed11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omar_mohamed2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar_mohamed2002" height="30" width="40" /></a>
-</p>
+I'm a passionate Computer Science student focused on building **intelligent systems that solve real-world problems**.  
+I enjoy working at the intersection of **AI, software engineering, and data analytics**, with hands-on experience in building full-stack applications and AI-powered tools.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Currently, I'm exploring:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Data Engineering & Warehousing
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Resume Analyzer & Job Matcher
+An AI-powered system that analyzes CVs and matches them with job descriptions using RAG and LLMs.
+
+- Extracts and processes resume content (PDF)
+- Semantic similarity search using vector embeddings
+- AI-generated match reports (skills, gaps, recommendations)
+- Built with Streamlit + LangChain + Hugging Face LLaMA 3.3
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+- Python 🐍
+- Java ☕
+- C++ ⚙️
+- C# (.NET)
+
+### 🤖 AI / ML / Data
+- LangChain
+- Hugging Face Transformers
+- RAG Pipelines
+- Scikit-learn (basic ML)
+- Power BI
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- SQLite
+- SQL Server
+
+### 🌐 Backend & Tools
+- Spring Boot
+- .NET Framework
+- Streamlit
+- Git & GitHub
+- Linux
+
+---
+
+## 📈 Competitive Programming
+
+- Problem solving on Codeforces & AtCoder
+- Strong focus on:
+  - Dynamic Programming
+  - Graph Algorithms
+  - Bit Manipulation
+  - Binary Search Techniques
+
+---
+
+## 🎯 Current Goals
+
+- Become a **Data Analyst / AI Engineer**
+- Build production-level AI applications using LLMs
+- Strengthen system design & scalable architecture skills
+- Contribute to open-source AI projects
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: www.linkedin.com/in/omar-mowad
+- 💻 GitHub: github.com/OmarMoawad1112
+- 📧 Open to collaboration and internships
+
+---
+
+⭐ *Always learning, building, and improving.*
